@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\bin\Debug\Kiet_265.exe.config
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\bin\Debug\Kiet_265.exe
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\bin\Debug\Kiet_265.pdb
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmcaculate.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmwelcom.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.Properties.Resources.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.exe
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.pdb
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmSolve1.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmmonth.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmLoginSimple.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmCalculateSum.resources
+C:\Users\Admin\source\repos\Kiet_265\Kiet_265\obj\Debug\Kiet_265.frmMonthh.resources
